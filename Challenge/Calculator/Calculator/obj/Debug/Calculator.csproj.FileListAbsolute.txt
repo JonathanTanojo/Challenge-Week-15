@@ -1,0 +1,10 @@
+C:\Jonathan\UC\Algorithma\Week 15\Jumat\Challenge\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Jonathan\UC\Algorithma\Week 15\Jumat\Challenge\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Jonathan\UC\Algorithma\Week 15\Jumat\Challenge\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Jonathan\UC\Algorithma\Week 15\Jumat\Challenge\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Jonathan\UC\Algorithma\Week 15\Jumat\Challenge\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Jonathan\UC\Algorithma\Week 15\Jumat\Challenge\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Jonathan\UC\Algorithma\Week 15\Jumat\Challenge\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Jonathan\UC\Algorithma\Week 15\Jumat\Challenge\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Jonathan\UC\Algorithma\Week 15\Jumat\Challenge\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Jonathan\UC\Algorithma\Week 15\Jumat\Challenge\Calculator\Calculator\obj\Debug\Calculator.pdb
